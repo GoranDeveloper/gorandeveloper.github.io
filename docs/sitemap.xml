@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gorandeveloper.github.io/posts/hello/</loc>
-    <lastmod>2024-03-24T00:40:23+01:00</lastmod>
-  </url><url>
     <loc>https://gorandeveloper.github.io/</loc>
-    <lastmod>2024-03-24T00:40:23+01:00</lastmod>
+    <lastmod>2024-03-24T14:06:05+01:00</lastmod>
+  </url><url>
+    <loc>https://gorandeveloper.github.io/posts/grga-ivana/</loc>
+    <lastmod>2024-03-24T14:06:05+01:00</lastmod>
   </url><url>
     <loc>https://gorandeveloper.github.io/posts/</loc>
+    <lastmod>2024-03-24T14:06:05+01:00</lastmod>
+  </url><url>
+    <loc>https://gorandeveloper.github.io/posts/hello/</loc>
     <lastmod>2024-03-24T00:40:23+01:00</lastmod>
   </url><url>
     <loc>https://gorandeveloper.github.io/posts/my-first-post/</loc>
